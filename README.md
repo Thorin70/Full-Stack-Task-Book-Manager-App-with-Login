@@ -9,7 +9,7 @@
 2. Run the app:
    `npm run dev`
 
-
+Live demo[[Live](https://fullstackbookstoretask.netlify.app/)]
 
 
 
