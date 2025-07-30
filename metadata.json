@@ -1,0 +1,5 @@
+{
+  "name": "Book Manager Neon",
+  "description": "A web application to manage a personal book collection with a stylish neon interface. Supports login and full CRUD (Create, Read, Update, Delete) operations for books.",
+  "requestFramePermissions": []
+}
