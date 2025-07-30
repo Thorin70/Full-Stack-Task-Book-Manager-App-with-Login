@@ -9,7 +9,9 @@
 2. Run the app:
    `npm run dev`
 
-Live demo[[Live](https://fullstackbookstoretask.netlify.app/)]
+
+[![Visit Fullstack Bookstore](https://img.shields.io/badge/Visit-Fullstack_Bookstore-blueviolet?style=for-the-badge&logo=netlify)](https://fullstackbookstoretask.netlify.app/)
+
 
 
 
